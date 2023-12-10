@@ -59,10 +59,10 @@ Containerize the AI model and web service using Docker.
 
 **Implementation Details**
 - **Dockerfile:** `Dockerfile`
-- **Commands:**
-  ```bash
-  docker build -t flask_image .
-  docker run -p 5000:5000 flask_image
+- **Commands:**<br>
+  `docker build -t flask_image .`<br>
+  `docker run -p 5000:5000 flask_image`
+
 
 
 ## 4. Deployment with Kubernetes

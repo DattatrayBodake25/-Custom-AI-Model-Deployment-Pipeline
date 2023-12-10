@@ -57,11 +57,13 @@ Create a web service in Python using Flask, exposing an API for predictions.
 ### Task
 Containerize the AI model and web service using Docker.
 
-### Implementation Details
+**Implementation Details**
 - **Dockerfile:** `Dockerfile`
 - **Commands:**
+  ```bash
   docker build -t flask_image .
   docker run -p 5000:5000 flask_image
+
 
 ## 4. Deployment with Kubernetes
 ### Task

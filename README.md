@@ -1,4 +1,4 @@
-# Quora Question Pairs Similarity Prediction flask app
+# Quora Questions Similarity Prediction flask app
 
 ## Overview
 

@@ -44,8 +44,8 @@ Containerize the AI model and web service using Docker.
 ### Implementation Details
 - **Dockerfile:** `Dockerfile`
 - **Commands:**
-  docker build -t quora-similarity-app .
-  docker run -p 5000:5000 quora-similarity-app
+  docker build -t flask_image .
+  docker run -p 5000:5000 flask_image
 
 ## 4. Deployment with Kubernetes
 ### Task

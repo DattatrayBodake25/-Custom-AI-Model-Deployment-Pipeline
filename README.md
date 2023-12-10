@@ -52,11 +52,11 @@ Containerize the AI model and web service using Docker.
 Write a Kubernetes deployment configuration for managing Docker containers.
 
 Implementation Details
-File: deployment.yaml
-Commands: kubectl apply -f deployment.yaml
+**File:** deployment.yaml
+**Commands:** kubectl apply -f deployment.yaml
 
 ## Resources
-Docker:
+**Docker:**
 https://docs.docker.com/get-docker/
-Minikube:
+**Minikube:**
 https://minikube.sigs.k8s.io/docs/start/
